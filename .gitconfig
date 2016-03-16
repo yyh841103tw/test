@@ -10,7 +10,7 @@
 [merge]
     tool = vimdiff
 [core]
-excludesfile = /Users/yyh841103tw/.gitignore_global
+excludesfile = /home/yyh841103tw/.gitignore_global
 [alias]
     bh = branch
     st = status
